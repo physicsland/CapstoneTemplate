@@ -11,6 +11,7 @@ ___
   - Markdown
 - poster
 - presentation
+- proposal_submit
 - research paper (optional)
   - Latex template
   - Word template
