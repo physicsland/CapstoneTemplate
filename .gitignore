@@ -6,7 +6,7 @@ Icon?
 # project specific
 # pngs/
 # htmls/
-# bigdata/
+bigdata/
 private/
 
 # for VS code configs

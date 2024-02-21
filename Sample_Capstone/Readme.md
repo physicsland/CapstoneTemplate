@@ -3,6 +3,9 @@ ___
 - code
   - component: All classes and function needs to be here.
   - main_code: Main loop codr needs to be here
+- data
+  - bigdata
+  - sampledata
 - demo (optional)
   - fig
 - full_report
